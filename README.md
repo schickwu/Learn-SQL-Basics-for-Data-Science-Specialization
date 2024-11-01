@@ -3,6 +3,7 @@ This Specialization is intended for a learner with no previous coding experience
 ## Three course series
 - SQL for Data Science
 - Data Wrangling, Analysis and AB Testing with SQL
+- Distributed Computing with Spark SQL
 - SQL for Data Science Capstone Project
 
 ## What I've learned:
