@@ -5,7 +5,7 @@ This Specialization is intended for a learner with no previous coding experience
 - Data Wrangling, Analysis and AB Testing with SQL
 - SQL for Data Science Capstone Project
 
-What I've learned:
+## What I've learned:
 
 - Use SQL commands to filter, sort, & summarize data; manipulate strings, dates, & numerical data from different sources for analysis
 
