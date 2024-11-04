@@ -15,3 +15,13 @@ This Specialization is intended for a learner with no previous coding experience
 - Use the collaborative Databricks workspace and create an end-to-end pipeline that reads data, transforms it, and saves the result
 
 - Develop a project proposal & select your data, perform statistical analysis & develop metrics, and present your findings & make recommendations
+
+## SQL_course1_final_report:
+https://github.com/schickwu/Learn-SQL-Basics-for-Data-Science-Specialization/blob/main/sql_course1_final_report.pdf
+## Final Capstone Project: 
+This project is about analysing congressional tweets data from the USA to determine how tweets, politicians could affect the congress most, so as to understand legislative trends and develop better lobbying strategies. 
+Audiences are companies like Lobbyist4America that try to help their customers who want to affect legislation by using effective lobbying strategy.
+### Related Files:
+- Origin_Proposal: https://github.com/schickwu/Learn-SQL-Basics-for-Data-Science-Specialization/blob/main/sql_capstone_project_origin_proposal.pdf
+- Final Notebook: https://github.com/schickwu/Learn-SQL-Basics-for-Data-Science-Specialization/blob/main/sql_capstone_project_notebook.ipynb
+- Final Report: https://github.com/schickwu/Learn-SQL-Basics-for-Data-Science-Specialization/blob/main/sql_capstone_project_report.pdf
